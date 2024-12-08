@@ -1,4 +1,4 @@
-# Conversion from Contacts and ISIR & Regular Applications
+# Conversion to Students from Contacts and ISIR & Regular Applications
 
 Objectives:
 
